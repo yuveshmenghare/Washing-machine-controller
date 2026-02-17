@@ -1,3 +1,5 @@
+#HD44780 LCD 8-bit interface driver
+
 #include <xc.h>
 #include "clcd.h"
 
