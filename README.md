@@ -17,7 +17,7 @@ It demonstrates state-machine based design, peripheral interfacing, timing accur
 Project Demo Video
 
 Watch the full working simulation of the washing-machine controller here:
-https://www.youtube.com/watch?v=qscuplNj33k
+https://www.youtube.com/watch?v=Q5Pkzd-8OY8
 
 ---
 
