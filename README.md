@@ -2,7 +2,7 @@
 
 ### Embedded Systems Internship Project – Emertxe (May–June 2025)
 
-### Author: Shreyas R. Kamble, Walchand College of Engineering, Sangli
+### Author:Yuvesh R Menghare, Walchand College of Engineering, Sangli
 
 ---
 
@@ -306,7 +306,7 @@ Use SW4, SW5, SW6 to interact with the system.
 
 ## **15. Author**
 
-**Shreyas R. Kamble**
+**Yuvesh R Menghare**
 Electronics Engineering
 Walchand College of Engineering, Sangli
 
