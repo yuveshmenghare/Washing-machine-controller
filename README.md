@@ -77,6 +77,7 @@ To see simulation refer this timeline: 18:25 in this video
 * PICSimLab Simulator
 
 ---
+<img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/59031cd4-ec23-4d67-bdee-afc86f672201" />
 
 ## **5. System Block Diagram**
 
