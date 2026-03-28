@@ -18,7 +18,7 @@ Project Demo Video
 
 Watch the full working simulation of the washing-machine controller here:
 https://www.youtube.com/watch?v=Q5Pkzd-8OY8
-
+To see simulation refer this timeline: 18:25 in this video
 ---
 
 ## **2. Project Objectives**
